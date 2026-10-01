@@ -222,16 +222,6 @@ Data Structures
 
 <div align="center">
 
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qu3so0o5&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 💬 Quote
 
 > *"Learning by building. Improving by understanding."*
